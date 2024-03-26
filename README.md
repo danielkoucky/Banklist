@@ -1,6 +1,6 @@
 # BANKLIST APP
 
-![Banky App]([https://example.com/banky-app-image.png](https://github.com/danielkoucky/Banklist/blob/main/assets/images/Banklist.jpg))
+![Banky App](https://github.com/danielkoucky/Banklist/blob/main/assets/images/Banklist.jpg)
 
 ## Features
 
